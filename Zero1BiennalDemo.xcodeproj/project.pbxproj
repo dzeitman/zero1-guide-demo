@@ -480,6 +480,7 @@
 				D47C6FA215A3A8F200265F10 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
